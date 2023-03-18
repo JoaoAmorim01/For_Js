@@ -1,0 +1,11 @@
+body{
+    text-align: justify;
+    margin-left: 20px;
+    background-color: crimson;
+    color: #fff;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 150px;
+}
